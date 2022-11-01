@@ -74,7 +74,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          path: ${{github.workspace}}/learn-packer-github-actions
+          path: ${{github.workspace}}
           # fetch-depth: 0 is needed to fetch history/tags, which are used to identify the build
           fetch-depth: 0
 
