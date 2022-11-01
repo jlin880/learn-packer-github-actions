@@ -1,0 +1,16 @@
+{
+  "builds": [
+    {
+      "name": "ubuntu-lts",
+      "builder_type": "amazon-ebs",
+      "build_time": 1667323020,
+      "files": null,
+      "artifact_id": "us-west-1:ami-0a51a66acdfcf5d70",
+      "packer_run_uuid": "d4fda215-65b0-7f55-e945-6a6dd261b3a2",
+      "custom_data": {
+        "iteration_id": "01GGQYAR1NYDC6BR5FFR8FYC7M"
+      }
+    }
+  ],
+  "last_run_uuid": "d4fda215-65b0-7f55-e945-6a6dd261b3a2"
+}
